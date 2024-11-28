@@ -1,6 +1,0 @@
-clear && echo "Đang Bắt Đầu Cài Đặt" && clear && apt update && apt upgrade -y && clear && pkg install git && git clone https://github.com/TranVanHoang2000/v1.git && pkg install unzip -y && unzip v1.zip && clear && cd v1 && chmod a+x exit && chmod a+x hd && chmod a+x open && chmod a+x psiphon-tunnel-core && chmod a+x psiphonfree && echo 'PATH="$PATH:$HOME/v1"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/v1"' >> $HOME/.zshrc && source $HOME/.zshrc && clear && echo "Đã Cài Đặt Thành Công" && hdinfuck-main-raw-hd/raw/refs/heads/main/hd && mv hd motd
-clear
-cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/TranVanHoang2000/v1-main-raw-brainfucktunnel/raw/refs/heads/main/brainfucktunnel && chmod +x * && mv brainfucktunnel login &&
-clear
-echo "Đã Cài Đặt Thành Công"
-hd
