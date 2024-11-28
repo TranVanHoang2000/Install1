@@ -1,0 +1,1 @@
+clear && echo "Đang Bắt Đầu Cài Đặt" && sleep 1 && clear && pkg install git -y && git clone https://github.com/TranVanHoang2000/v1.zip && pkg install unzip -y && unzip v1.zip && cd v1.zip &&  && chmod +x * && echo 'PATH="$PATH:$HOME/v1.zip"' >> $HOME/.bashrc && source $HOME/.bashrc && echo "Đã Cài Đặt Thành Công" && sleep 1 && hdhd
