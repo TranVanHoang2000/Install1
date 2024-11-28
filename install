@@ -3,4 +3,4 @@ clear
 cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/TranVanHoang2000/v1-main-raw-brainfucktunnel/raw/refs/heads/main/brainfucktunnel && chmod +x * && mv brainfucktunnel login &&
 clear
 echo "Đã Cài Đặt Thành Công"
-login
+hd
